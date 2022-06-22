@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Mgooch2
+
 - 👀 I’m interested in all things nerd! Esp. D&D, video games, anime, Star Wars, Star Trek, I can go on forever.
-- 🌱 I’m currently studying as a Computer Science major at Kennesaw State University. I'm learning Java, Python, HTML/CSS, JS/Vue, C++, C#, .
-- 💞️ I’m looking to collaborate on anything I could be of help on.
+- 🌱 I'm learning Java, Python, HTML/CSS, JS/Vue, C++, C#, .
+- 💞️ I love to learn.
 - 📫 How to reach me : mionnegooch@gmail.com
 
 <!---
